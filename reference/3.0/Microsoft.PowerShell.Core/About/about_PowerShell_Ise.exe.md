@@ -1,10 +1,10 @@
 ---
 title: about_PowerShell_Ise.exe
-description: 
+description:
 keywords: powershell, cmdlet
 author: jpjofre
-manager: carolz
-ms.date: 2016-09-20
+manager: carmonm
+ms.date: 2016-11-18
 ms.topic: reference
 ms.prod: powershell
 ms.technology: powershell
@@ -113,4 +113,3 @@ PS C:>ISE -help
 about_PowerShell.exe
 about_Windows_PowerShell_ISE
 Windows PowerShell 3.0 Integrated Scripting Environment (ISE)
-
